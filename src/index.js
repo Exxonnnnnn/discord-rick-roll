@@ -71,9 +71,9 @@ class Rick {
         
         embed
         .setTitle('Who is cannon?')
-        .setDescription('Well Cannon is a person. Cannon is Portugeese and likes TypeScript, JavaScript (Not rlly) and Firebase. Cannon is learning C++, HTML and English. Cannon is also the creator of [Valex Bot](https://github.com/CannonStealth/valex)')
+        .setDescription('Well Cannon is a person. Cannon is Portuguese and likes TypeScript, JavaScript (Not rlly) and Firebase. Cannon is learning C++, HTML and English. Cannon is also the creator of [Valex Bot](https://github.com/CannonStealth/valex)')
         .addFields(
-            { name: 'Advantages of Cannon', value: '[Speaks Portugeese](https://www.youtube.com/watch?v=dQw4w9WgXcQ)', inline: true },
+            { name: 'Advantages of Cannon', value: '[Speaks Portuguese](https://www.youtube.com/watch?v=dQw4w9WgXcQ)', inline: true },
             { name: 'Disadvantages of Cannon', value: '[Idk](https://www.youtube.com/watch?v=dQw4w9WgXcQ)', inline: true },
             { name: 'GitHub', value: `[Click Here](https://github.com/CannonStealth)`, inline: true },
         )
