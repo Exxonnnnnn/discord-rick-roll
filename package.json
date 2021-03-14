@@ -1,6 +1,6 @@
 {
   "name": "discord-rick-roll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A very good package",
   "main": "src/index.js",
   "scripts": {
