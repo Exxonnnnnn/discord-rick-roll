@@ -20,6 +20,7 @@
     - [Astley](#astley)
     - [Cannon](#cannon)
     - [Agred](#agred)
+    - [Mystic](#mystic)
 - [Other](#other)
 
 <br>
