@@ -89,5 +89,14 @@ roll.agred({ msg: message })
 
 <br>
 
+## Mystic
+
+```js
+roll.mystic({ msg: message })
+```
+
+<br>
+
 # Other
-Please don't take this package seriously, but feel free to use it. You might enjoy it :)
+Please don't take this package seriously, but feel free to use it. You might enjoy it :)  
+If you want to be added just make a PR

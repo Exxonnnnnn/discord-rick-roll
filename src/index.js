@@ -99,7 +99,7 @@ class Rick {
     
     mystic({ msg }) {
         if (!msg)
-            return console.log(`${colors.brightRed('[YIKES]')}`.white + colors.white(' You can\'t even give me a proper message? Smh'))
+            return console.log(`${colors.brightRed('[YIKES]')}`.white + colors.white(' You can\'t even give me a proper message? Smh'));
         
         embed
         .setTitle('Who is Mystic?')
@@ -108,7 +108,7 @@ class Rick {
             { name: 'Advantage of Mystic', value: '[Is Cool, likes Exadon and is a bot dev for Mystical Traders, lmfao](https://www.youtube.com/watch?v=dQw4w9WgXcQ)', inline: true },
             { name: 'Disadvantages of Mystic', value: '[Always asks for spoonfeed](https://www.youtube.com/watch?v=dQw4w9WgXcQ)', inline: true },
             { name: 'Github', value: '[Click here](https://github.com/MysticIsSus)', inline: true }
-           )
+        )
         
         msg.channel.send(msg.author, { embed: embed });
     };
